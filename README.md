@@ -16,7 +16,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Alana%20Spinelli-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanaspinelli/)](https://www.linkedin.com/in/alanaspinelli/) 
 [![Gmail Badge](https://img.shields.io/badge/-alanaspinelli02@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:alanaspinelli02@gmail.com)
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Alana-s/Alana-s/blob/output/github-contribution-grid-snake.svg)
 
 
 
