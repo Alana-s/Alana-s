@@ -1,10 +1,10 @@
 # Hey! Welcome to my profile! 👋 
 
-  👩‍🎓 I'm currently studying at  **Universidade Anhembi Morumbi**
-  💻 HTML, CSS, C..
-  🚀 learning is continuous and there will always be a next level 
-  
 
+ - 👩‍🎓 I'm currently studying at  **Universidade Anhembi Morumbi**
+ - 💻 HTML, CSS, C..
+ - 🚀 learning is continuous and there will always be a next level 
+ 
 
 ### Reach me out 👇
 
